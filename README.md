@@ -43,10 +43,6 @@ Click the `Checkout`
 
 ![Checkout Tab](images/checkout-tab.png)
 
-Click the `Payme` and enter the required data.
-
-![Payme Settings](images/payme-settings.png)
+Click the `Linkpay` and enter the required data.
 
 Copy your `Endpoint URL` and enter it in the cabinet of the LinkPay provider.
-
-![Set Endpoint URL](images/endpoint-url.png)
